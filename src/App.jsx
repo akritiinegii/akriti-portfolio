@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const skills = {
   Frontend: ["HTML", "CSS", "JavaScript", "React"],
   Tools: ["Git", "GitHub", "VS Code"],
-  Backend: ["Currently Learning"],
+  Backend: [""],
 };
 
 const projects = [
